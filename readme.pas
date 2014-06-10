@@ -1,0 +1,1 @@
+These code are written when I am learning Delphi :D
